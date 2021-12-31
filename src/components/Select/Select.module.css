@@ -1,0 +1,9 @@
+.select {
+  background-color: transparent;
+  color: inherit;
+  border: none;
+}
+
+.select option {
+  background-color: var(--purple);
+}
